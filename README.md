@@ -1,7 +1,7 @@
 SiS-PM Control for Windows 
 ========================
 
-Based on Source Code sispmctrl in version 4.9from following authors
+Based on Source Code sispmctrl in version 4.9 from following authors
 
 (c) 2015-2020, Heinrich Schuchardt &lt;xypron.glpk@gmx.de&gt;
 
