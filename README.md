@@ -29,15 +29,10 @@ Dependencies
   - cygusb0.dll
   - cygncursesw-10.dll
 
-Limitation
-----------
-
-- This build was compiled **without** web-interface features.
-
 How to use
 ----------
 
-- Like mentioned in the section **Limitation** the default driver has to be replaced with driver libusb-win32 
+- Like mentioned in the section **Dependencies** the default driver has to be replaced with driver libusb-win32 
 - Get list of options (help) with `sispmctl.exe -h`
 
 Command Line Interface
