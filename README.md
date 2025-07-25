@@ -1,9 +1,9 @@
 SiS-PM Control for Windows 
 ========================
 
-Based on Source Code sispmctrl in version 4.9 from following authors
+Based on Source Code sispmctrl in version 4.12 from following authors
 
-(c) 2015-2020, Heinrich Schuchardt &lt;xypron.glpk@gmx.de&gt;
+(c) 2015-2023, Heinrich Schuchardt &lt;xypron.glpk@gmx.de&gt;
 
 (c) 2011-2016, Pete Hildebrandt &lt;send2ph@gmail.de&gt;
 
@@ -17,8 +17,11 @@ powerstrips:
 
 * Gembird SIS-PMS SilverShield
 * Gembird MSIS-PM
+* EnerGenie EG-PM
+* EnerGenie EG-PMS
+* EnerGenie EG-PM2
 * EnerGenie EG-PMS2
-* EnerGenie EG-PMS2
+
 
 Dependencies
 ------------
